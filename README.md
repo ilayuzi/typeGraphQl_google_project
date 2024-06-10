@@ -1,0 +1,1 @@
+# typeGraphQl_google_project
