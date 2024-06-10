@@ -1,0 +1,6 @@
+{
+    "watch": ["onboarding_project"],
+    "ext": "ts",
+    "exec": "ts-node ./server.ts"
+  }
+  
